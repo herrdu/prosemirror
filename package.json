@@ -1,0 +1,25 @@
+{
+  "name": "prosemirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "vue-cli-service lint --no-fix",
+    "ts-check": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrdu/prosemirror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herrdu/prosemirror/issues"
+  },
+  "homepage": "https://github.com/herrdu/prosemirror#readme",
+  "devDependencies": {
+    "tslib": "^2.0.1",
+    "typescript": "^3.9.7"
+  }
+}
